@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "325806172720",
+    "project_id": "lojav-1e9ec",
+    "storage_bucket": "lojav-1e9ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325806172720:android:f6dff934740ca5bd8f9bf5",
+        "android_client_info": {
+          "package_name": "br.com.loja_online.loja_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325806172720-oqqimdhj4hl09k53bmuv6gd51u0e3d12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk52UVl5Ctmd2OtIZmnpADTL2UucUAxdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325806172720-oqqimdhj4hl09k53bmuv6gd51u0e3d12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
